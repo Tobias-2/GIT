@@ -20,3 +20,4 @@ print("Monthy Python")
 
 # hohoh
 # kikigi
+Print("pozdrawianm")
