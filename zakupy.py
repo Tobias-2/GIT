@@ -17,3 +17,5 @@ print(f"W sumie kupuję {t} produktów")
 print("Monthy Python")
 
 #hhhh
+
+# hohoh
